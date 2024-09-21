@@ -1,5 +1,5 @@
 # paper-versions
-  "latest": "1.20.6",
+  "latest": "1.21.1",
   
   "versions": {
   
