@@ -1,6 +1,7 @@
 {
   "latest": "1.21.1",
-  "versions": {
+  "versions": 
+  {
     "1.21.1": "https://api.papermc.io/v2/projects/paper/versions/1.21.1/builds/81/downloads/paper-1.21.1-81.jar",
     
     "1.21": "https://api.papermc.io/v2/projects/paper/versions/1.21/builds/130/downloads/paper-1.21-130.jar",
